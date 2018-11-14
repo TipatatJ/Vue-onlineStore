@@ -48,18 +48,18 @@
 ### 後台管理
    
    #### 商品管理
-   ![image](https://github.com/lhikarul/Vue-onlineStore/blob/master/readme/Demo-7.png
+   ![image](https://raw.githubusercontent.com/lhikarul/Vue-onlineStore/master/readme/Demo10.png)
    
    功能:
        新增、刪除、編輯商品
        前台的商品資料都來自於這裡
    
    ###  訂單管理
-   ![image](https://github.com/lhikarul/Vue-onlineStore/blob/master/readme/Demo-8.png)
+   ![image](https://github.com/lhikarul/Vue-onlineStore/blob/master/readme/Demo-8.png?raw=true)
    顧客的訂單紀錄都在這裡
    
    ### 優惠券管理
-   ![image](https://github.com/lhikarul/Vue-onlineStore/blob/master/readme/Demo-9.png)
+   ![image](https://github.com/lhikarul/Vue-onlineStore/blob/master/readme/Demo-9.png?raw=true)
    顧客使用的優惠碼來自於這裡
 
 
