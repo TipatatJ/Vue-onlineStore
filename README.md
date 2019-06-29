@@ -3,6 +3,8 @@
 
 ### [Demo](https://lhikarul.github.io/Vue-onlineStore/#/index")
 
+### [google文字](https://www.google.com/)
+
 ### 簡介
 此為Vue.js的前端練習作品
 
